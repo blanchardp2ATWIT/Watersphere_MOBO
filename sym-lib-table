@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MC74A5-33SNTR")(type "KiCad")(uri "${KIPRJMOD}/Component Resources/Custom/Temperature_sensor/MC74A5-33SNTR.kicad_sym")(options "")(descr ""))
+)
