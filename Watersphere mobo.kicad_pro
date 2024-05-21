@@ -483,6 +483,10 @@
     [
       "1ec4103b-dc82-4700-b0ee-4b5bb234d358",
       "4-Channel ADC (2x)"
+    ],
+    [
+      "f3a59c99-c5f5-41f4-9185-d6e5a8c7c677",
+      "Motor Controller"
     ]
   ],
   "text_variables": {}

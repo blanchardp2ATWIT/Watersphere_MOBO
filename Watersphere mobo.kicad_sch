@@ -48,6 +48,23 @@
     )
   )
 
+  (sheet (at 119.38 45.72) (size 39.37 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f3a59c99-c5f5-41f4-9185-d6e5a8c7c677)
+    (property "Sheetname" "Motor Controller" (at 119.38 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 119.38 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Watersphere mobo"
+        (path "/c4a63ad0-0af5-4f61-bde7-7fb53fc8413c" (page "5"))
+      )
+    )
+  )
+
   (sheet (at 119.38 17.78) (size 38.1 20.32) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
