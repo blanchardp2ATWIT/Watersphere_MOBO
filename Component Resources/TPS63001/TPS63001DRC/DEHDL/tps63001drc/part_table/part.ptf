@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS63001DRC'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS63001DRC" (!) = "", "TPS63002DRCT", "Other", "", "", "", "", "TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches", "https://www.ti.com/lit/ds/symlink/tps63002.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1627981401743&ref_url=https%253A%252F%252Fwww.mouser.cn%252F", "1 mm"
+END_PART
+
+END.

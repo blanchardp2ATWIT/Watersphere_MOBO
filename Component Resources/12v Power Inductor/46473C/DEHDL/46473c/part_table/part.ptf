@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '46473C'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "46473C" (!) = "", "46473C", "Other", "580-46473C", "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/46473C?qs=ocmcTMnGEDjqFtLQ5twzfA%3D%3D", "46473C", "https://www.arrow.com/en/products/46473c/murata-power-solutions", "Fixed Inductors 47uH 1.25A SMT", "https://www.arrow.com/en/products/46473c/murata-power-solutions", "4.55 mm"
+END_PART
+
+END.

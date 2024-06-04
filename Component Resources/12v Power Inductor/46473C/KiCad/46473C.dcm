@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 46473C
+D Fixed Inductors 47uH 1.25A SMT
+K
+F https://www.arrow.com/en/products/46473c/murata-power-solutions
+$ENDCMP
+#
+#End Doc Library

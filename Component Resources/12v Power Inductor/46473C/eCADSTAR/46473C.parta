@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_1678635"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-10-13:43:02)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "46473C")
+)
+
+
+(pinAssign "ECS_1678635"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-10-13:43:02)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1678635")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "46473C")
+)
+
+
+(part "46473C"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-10-13:43:02)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "46473C")
+    (pinAssignRef "ECS_1678635")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Fixed Inductors 47uH 1.25A SMT")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "46473C")
+    (property "Mouser_Part_Number" "580-46473C")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/46473C?qs=ocmcTMnGEDjqFtLQ5twzfA%3D%3D")
+    (property "Arrow_Part_Number" "46473C")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/46473c/murata-power-solutions")
+    (property "Datasheet_Link" "https://www.arrow.com/en/products/46473c/murata-power-solutions")
+    (property "compAreaTopHeight" 4.55)
+)
+
+

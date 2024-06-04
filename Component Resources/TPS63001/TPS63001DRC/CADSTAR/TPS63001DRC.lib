@@ -1,0 +1,18 @@
+.TPS63001DRC :1 ;TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches
+TPS63002DRCT
+*STM IC
+*NGS
+*PLB 1="VOUT" 2="L2" 3="PGND_1" 4="L1" 5="VIN" 6="EN" 7="PS/SYNC" 8="VINA" 9="GND" 10="FB" 11="PGND_2" 12="PGND_3" 13="PGND_4" 14="PGND_5" 15="PGND_6"
+*MXP 15
+*DFN TPS63001DRC
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS63001DRC)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tps63002.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1627981401743&ref_url=https%253A%252F%252Fwww.mouser.cn%252F)
+~!Height (1mm)
+~!3D_Model (TPS63001DRC)
+TPS63001DRC
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 

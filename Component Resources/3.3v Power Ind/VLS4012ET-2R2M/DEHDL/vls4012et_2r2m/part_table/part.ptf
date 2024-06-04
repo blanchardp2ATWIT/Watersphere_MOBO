@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VLS4012ET_2R2M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "TDK", "VLS4012ET-2R2M" (!) = "", "VLS4012", "Other", "810-VLS4012ET-2R2M", "https://www.mouser.co.uk/ProductDetail/TDK/VLS4012ET-2R2M?qs=uxmvvYJjMIuoLXqNl6NZDg%3D%3D", "VLS4012ET-2R2M", "https://www.arrow.com/en/products/vls4012et-2r2m/tdk?region=nac", "SMD / SMT Inductors (Coils), L=2.2?H, L x W x T :", "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/wdcatalog/withdrawn_inductor_commercial_power_vls4012e_en.pdf"
+END_PART
+
+END.

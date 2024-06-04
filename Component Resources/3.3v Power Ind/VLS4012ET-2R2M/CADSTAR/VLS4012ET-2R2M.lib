@@ -1,0 +1,18 @@
+.VLS4012ET-2R2M :1 ;SMD / SMT Inductors (Coils), L=2.2?H, L x W x T :
+VLS4012
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN VLS4012ET-2R2M
+~!Manufacturer_Name (TDK)
+~!Manufacturer_Part_Number (VLS4012ET-2R2M)
+~!Mouser Part Number (810-VLS4012ET-2R2M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TDK/VLS4012ET-2R2M?qs=uxmvvYJjMIuoLXqNl6NZDg%3D%3D)
+~!Arrow Part Number (VLS4012ET-2R2M)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/vls4012et-2r2m/tdk?region=nac)
+~!Link Datasheet (https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/wdcatalog/withdrawn_inductor_commercial_power_vls4012e_en.pdf)
+~!Height (-)
+~!3D_Model (VLS4012ET-2R2M)
+VLS4012ET-2R2M
+1.1!U 2.1!U 

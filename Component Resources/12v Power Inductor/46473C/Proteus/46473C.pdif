@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "46473C"
+   (description "Fixed Inductors 47uH 1.25A SMT")
+   (family "IND")
+   (package "46473C")
+   (attribute "Datasheet Link" "https://www.arrow.com/en/products/46473c/murata-power-solutions")
+   (attribute "Geometry.Height" "4.55mm")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "46473C")
+   (attribute "Mouser Part Number" "580-46473C")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/46473C?qs=ocmcTMnGEDjqFtLQ5twzfA%3D%3D")
+   (attribute "Arrow Part Number" "46473C")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/46473c/murata-power-solutions")
+   (gate
+    (symbol "46473C")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "46473C"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 200 0) (pt 200 -52) (pt 300 48) (start -175.4) (sweep 177.7)) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 300 0) (pt 300 -52) (pt 400 48) (start -175.4) (sweep 177.7)) (pt 400 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 400 0) (pt 400 -52) (pt 500 48) (start -175.4) (sweep 177.7)) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path
+     (arc (pt 500 0) (pt 500 -52) (pt 600 48) (start -175.4) (sweep 177.7)) (pt 600 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "46473C"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.65 -3.65)
+      (pt 3.65 -3.65)
+      (pt 3.65 3.65)
+      (pt -3.65 3.65)
+      (pt -3.65 -3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.65 3.65)
+      (pt 3.65 3.65)
+      (pt 3.65 3.65)
+      (pt -3.65 3.65)
+      (pt -3.65 3.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.65 -3.65)
+      (pt 3.65 -3.65)
+      (pt 3.65 -3.65)
+      (pt -3.65 -3.65)
+      (pt -3.65 -3.65))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.2 4.65)
+      (pt 5.25 4.65)
+      (pt 5.25 -4.65)
+      (pt -6.2 -4.65)
+      (pt -6.2 4.65))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -5.2 0.25)
+      (arc (pt -5.200 0.250) (pt -5.200 0.200) (pt -5.100 0.300) (start 180.0) (sweep 180.0))
+      (pt -5.1 0.25)
+      (arc (pt -5.100 0.250) (pt -5.200 0.200) (pt -5.100 0.300) (start 180.0) (sweep .0))
+      (pt -5.2 0.25)
+      (arc (pt -5.200 0.250) (pt -5.200 0.200) (pt -5.100 0.300) (start 180.0) (sweep 180.0))
+      (pt -5.1 0.25))))
+   (leg 1 (pt -3.000 0.000) (padstack 0))
+   (leg 2 (pt 3.000 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 2.500 3.250 0 0 90.000))
+   )
+   (model "46473C.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

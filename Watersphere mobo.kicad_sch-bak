@@ -1,0 +1,88 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid c4a63ad0-0af5-4f61-bde7-7fb53fc8413c)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Watersphere Motherboard Parts:\n1) Main Control Unit\n	- Raspberry Pi Zero Footprint\n	- Shouldnt need any other peripherals here. \n	- There is a UFL\n2) Battery Management System:\n	- LiPo Battery Charge Controller\n	- 5v Regulator\n	- 3.3v Regulator\n	- 9v Regulator\n3) 4-Channel ADC (2x)\n	- Pressure Sensor\n	- Turbidity Sensor\n	- Temperature\n	- 5v monitoring voltage\n	- 3.3v monitoring voltage\n	- 9v monitoring voltage\n4)\n	-"
+    (at 20.32 55.88 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1c4fb5b4-6990-4066-b435-b6e03e6e6006)
+  )
+
+  (sheet (at 78.74 45.72) (size 38.1 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1ec4103b-dc82-4700-b0ee-4b5bb234d358)
+    (property "Sheetname" "4-Channel ADC (2x)" (at 78.74 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "adc.kicad_sch" (at 78.74 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Watersphere mobo"
+        (path "/c4a63ad0-0af5-4f61-bde7-7fb53fc8413c" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 78.74 17.78) (size 38.1 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 3f8884fe-4665-4fba-a6c0-e9032b67a8f5)
+    (property "Sheetname" "Main Control Unit" (at 78.74 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 78.74 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Watersphere mobo"
+        (path "/c4a63ad0-0af5-4f61-bde7-7fb53fc8413c" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 119.38 45.72) (size 39.37 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f3a59c99-c5f5-41f4-9185-d6e5a8c7c677)
+    (property "Sheetname" "Motor Controller" (at 119.38 45.0084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "untitled.kicad_sch" (at 119.38 66.6246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Watersphere mobo"
+        (path "/c4a63ad0-0af5-4f61-bde7-7fb53fc8413c" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 119.38 17.78) (size 38.1 20.32) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f3bb2498-f908-493d-8f61-40c928a702f6)
+    (property "Sheetname" "Battery Management System" (at 119.38 17.0684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "bms.kicad_sch" (at 119.38 38.6846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Watersphere mobo"
+        (path "/c4a63ad0-0af5-4f61-bde7-7fb53fc8413c" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

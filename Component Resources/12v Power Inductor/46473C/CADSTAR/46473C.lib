@@ -1,0 +1,18 @@
+.46473C :1 ;Fixed Inductors 47uH 1.25A SMT
+"46473C"
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 46473C
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (46473C)
+~!Mouser Part Number (580-46473C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Power-Solutions/46473C?qs=ocmcTMnGEDjqFtLQ5twzfA%3D%3D)
+~!Arrow Part Number (46473C)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/46473c/murata-power-solutions)
+~!Link Datasheet (https://www.arrow.com/en/products/46473c/murata-power-solutions)
+~!Height (4.55mm)
+~!3D_Model (46473C)
+"46473C"
+1.1!U 2.1!U 

@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TPS63001DRC
+#/18869680/1244191/2.50/15/4/Integrated Circuit
+DEF TPS63001DRC IC 0 30 Y Y 1 F N
+F0 "IC" 1250 700 50 H V L CNN
+F1 "TPS63001DRC" 1250 600 50 H V L CNN
+F2 "TPS63002DRCT" 1250 500 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/tps63002.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1627981401743&ref_url=https%253A%252F%252Fwww.mouser.cn%252F" 1250 400 50 H I L CNN
+F4 "TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches" 1250 300 50 H I L CNN "Description"
+F5 "1" 1250 200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1250 100 50 H I L CNN "Manufacturer_Name"
+F7 "TPS63001DRC" 1250 0 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 1250 -100 50 H I L CNN "Mouser Part Number"
+F9 "" 1250 -200 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1250 -300 50 H I L CNN "Arrow Part Number"
+F11 "" 1250 -400 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X VOUT 1 0 0 200 R 50 50 0 0 P
+X L2 2 0 -100 200 R 50 50 0 0 P
+X PGND_1 3 0 -200 200 R 50 50 0 0 P
+X L1 4 0 -300 200 R 50 50 0 0 P
+X VIN 5 0 -400 200 R 50 50 0 0 P
+X EN 6 1400 -400 200 L 50 50 0 0 P
+X PS/SYNC 7 1400 -300 200 L 50 50 0 0 P
+X VINA 8 1400 -200 200 L 50 50 0 0 P
+X GND 9 1400 -100 200 L 50 50 0 0 P
+X FB 10 1400 0 200 L 50 50 0 0 P
+X PGND_2 11 600 700 200 D 50 50 0 0 P
+X PGND_3 12 600 -1100 200 U 50 50 0 0 P
+X PGND_4 13 700 -1100 200 U 50 50 0 0 P
+X PGND_5 14 800 700 200 D 50 50 0 0 P
+X PGND_6 15 700 700 200 D 50 50 0 0 P
+P 5 0 1 6 200 500 1200 500 1200 -900 200 -900 200 500 N
+ENDDRAW
+ENDDEF
+#
+#End Library

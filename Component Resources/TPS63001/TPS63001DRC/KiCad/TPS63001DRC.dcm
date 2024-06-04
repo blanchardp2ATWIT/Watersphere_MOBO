@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63001DRC
+D TPS6300x High-Efficient Single Inductor Buck-Boost Converter With 1.8-A Switches
+K
+F https://www.ti.com/lit/ds/symlink/tps63002.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1627981401743&ref_url=https%253A%252F%252Fwww.mouser.cn%252F
+$ENDCMP
+#
+#End Doc Library

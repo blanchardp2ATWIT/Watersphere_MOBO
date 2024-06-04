@@ -1,4 +1,88 @@
-21735365169239652
+21771412062241105
+1 uH Ind
+IND_VLS252012HBX-1R0M-1
+
+
+0
+2
+2
+3.3v Power Ind
+VLS4012
+VLS4012
+Inductor
+0
+2
+2
+5v Converter
+UDFN8_2X2_MCH
+
+MIC2876-5.0YMT-TR 
+0
+9
+9
+5v Converter
+UDFN8_2X2_MCH-L
+
+MIC2876-5.0YMT-TR 
+0
+9
+9
+5v Converter
+UDFN8_2X2_MCH-M
+
+MIC2876-5.0YMT-TR 
+0
+9
+9
+12v Power Ind
+46473C
+46473C-4
+Inductor
+0
+2
+2
+0603 LED
+LED_150060GS75000_WRE
+
+150060GS75000 
+0
+2
+2
+0603 LED
+LED_150060GS75000_WRE-L
+
+150060GS75000 
+0
+2
+2
+0603 LED
+LED_150060GS75000_WRE-M
+
+150060GS75000 
+0
+2
+2
+ADA3708
+MODULE_ADA3708
+
+
+0
+40
+40
+ADP1109
+N_8_ADI
+
+ADP1109AN-12 
+0
+8
+8
+ADS1115
+SOP50P490X110-10N
+
+
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +97,27 @@ audio belton reverb
 0
 7
 7
+BNO055
+LGA28R50P4X10_380X520X100
+
+
+0
+28
+28
+BQ2530
+RTE0016C
+
+BQ25303JRTER 
+0
+22
+22
+BQ2530
+RTE0016C_NV
+
+BQ25303JRTER 
+0
+17
+17
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -60822,6 +60927,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Micro USB
+AMPHENOL_10118192-0001LF
+
+
+0
+11
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -61081,6 +61193,27 @@ ESP8266 WiFi microcontroller
 0
 16
 16
+Motor_Controller
+SOT6_DRV8212_TEX
+
+DRV8212DRLR 
+0
+6
+6
+Motor_Controller
+SOT6_DRV8212_TEX-L
+
+DRV8212DRLR 
+0
+6
+6
+Motor_Controller
+SOT6_DRV8212_TEX-M
+
+DRV8212DRLR 
+0
+6
+6
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
@@ -64525,6 +64658,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PWM Expander
+QFN50P400X400X80-25N
+
+
+0
+25
+25
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -84706,6 +84846,13 @@ Logo WEEE
 0
 0
 0
+TPS63001
+TPS63002DRCT
+DRC0010J_Thickness=1mm
+Integrated Circuit
+0
+15
+15
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

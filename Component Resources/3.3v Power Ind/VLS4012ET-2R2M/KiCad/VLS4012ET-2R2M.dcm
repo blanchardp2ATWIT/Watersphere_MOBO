@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VLS4012ET-2R2M
+D SMD / SMT Inductors (Coils), L=2.2?H, L x W x T :
+K
+F https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/wdcatalog/withdrawn_inductor_commercial_power_vls4012e_en.pdf
+$ENDCMP
+#
+#End Doc Library
