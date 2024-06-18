@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VLS252012HBX-3R3M-1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-22-16:11:07)
+    (mountForm default
+        (footprintRef "VLS2520")
+        (spec "System")
+    )
+)

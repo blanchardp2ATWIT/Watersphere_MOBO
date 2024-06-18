@@ -1,0 +1,18 @@
+.MIC2876-5.0YMT-TR :1 ;Switching Voltage Regulators
+MIC287650YMTTR
+*STM IC
+*NGS
+*PLB 1="SW" 2="PGND" 3="IN" 4="AGND" 5="OUTS" 6="EN" 7="'PG'" 8="OUT" 9="EP"
+*MXP 9
+*DFN MIC2876-5.0YMT-TR
+~!Manufacturer_Name (Microchip)
+~!Manufacturer_Part_Number (MIC2876-5.0YMT-TR)
+~!Mouser Part Number (998-MIC2876-50YMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC2876-5.0YMT-TR?qs=Y3Q3JoKAO1ROB46ffRMt%252BQ%3D%3D)
+~!Arrow Part Number (MIC2876-5.0YMT-TR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/mic2876-5.0ymt-tr/microchip-technology?region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/MIC2876-5.0YMT-TR.pdf)
+~!Height (0.6mm)
+~!3D_Model (MIC2876-5.0YMT-TR)
+MIC2876-5.0YMT-TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

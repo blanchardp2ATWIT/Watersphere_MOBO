@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MIC287650YMTTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MIC287650YMTTR")
+        (spec "default")
+    )
+)

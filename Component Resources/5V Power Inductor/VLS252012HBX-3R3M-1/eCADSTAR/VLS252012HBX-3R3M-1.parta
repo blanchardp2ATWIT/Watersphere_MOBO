@@ -1,0 +1,67 @@
+(Japanese_coding: sjis)
+(function "ECS_952853"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:11:07)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VLS252012HBX-3R3M-1")
+)
+
+
+(pinAssign "ECS_952853"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:11:07)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_952853")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VLS252012HBX-3R3M-1")
+)
+
+
+(part "VLS252012HBX-3R3M-1"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-22-16:11:07)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "VLS252012HBX-3R3M-1")
+    (pinAssignRef "ECS_952853")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "SMD / SMT Inductors (Coils), L=3.3?H, L x W x T :")
+    (property "Manufacturer_Name" "TDK")
+    (property "Manufacturer_Part_Number" "VLS252012HBX-3R3M-1")
+    (property "Mouser_Part_Number" "810-VLS25212HBX3R3M1")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK/VLS252012HBX-3R3M-1?qs=uwKJARvjadPUOfSwmfgIqA%3D%3D")
+    (property "Arrow_Part_Number" "VLS252012HBX-3R3M-1")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/vls252012hbx-3r3m-1/tdk?region=nac")
+    (property "Datasheet_Link" "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_commercial_power_vls252012hbx-1_en.pdf")
+)
+
+

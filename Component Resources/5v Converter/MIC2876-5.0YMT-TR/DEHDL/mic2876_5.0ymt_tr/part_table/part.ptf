@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MIC2876_5.0YMT_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "MIC2876-5.0YMT-TR" (!) = "", "MIC287650YMTTR", "Other", "998-MIC2876-50YMTTR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC2876-5.0YMT-TR?qs=Y3Q3JoKAO1ROB46ffRMt%252BQ%3D%3D", "MIC2876-5.0YMT-TR", "https://www.arrow.com/en/products/mic2876-5.0ymt-tr/microchip-technology?region=nac", "Switching Voltage Regulators", "https://componentsearchengine.com/Datasheets/1/MIC2876-5.0YMT-TR.pdf", "0.6 mm"
+END_PART
+
+END.

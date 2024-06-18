@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=MIC2876-5.0YMT-TR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2020-02-05 17:27:12
+Downloaded=2024-06-05 20:57:20
+3D=Y
